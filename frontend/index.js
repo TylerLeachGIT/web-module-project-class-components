@@ -7,6 +7,7 @@ import './styles/styles.css'
 const domNode = document.getElementById('root')
 const root = createRoot(domNode)
 
+
 root.render(
   <>
     <h1>Todo App</h1>
